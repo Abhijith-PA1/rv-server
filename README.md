@@ -59,7 +59,7 @@ PORT=3000
 MONGO_URI=mongodb+srv://abhijithpa73:mern@cluster0.5a3ue7j.mongodb.net/brServer?retryWrites=true&w=majority&appName=Cluster0
 JWT_SECRET=supersecreat123
 
-Backend will run on: http://localhost:3000
+Backend will run on: https://rv-server.onrender.com
 
 # API Endpoints
 
